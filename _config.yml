@@ -22,13 +22,13 @@ theme_color: purple
 ###############################################################################
 
 # Google Calendar Settings
-googleCalendarApiKey: 'Update Me'
-googleCollegeCalendarId: 'Update Me'
-googleCourseCalendarId: 'Update Me'
+googleCalendarApiKey: 'AIzaSyBfRSj-878d-mwb0E1jIN0qVDzmQXJhuhQ'
+googleCollegeCalendarId: 'pam2qc7v8m3eqordq9llu4b844@group.calendar.google.com'
+googleCourseCalendarId: 'AIzaSyBck8JyFmlhjbTKlKH5TmajJtJUBO33JX8@group.calendar.google.com'
 ###############################################################################
 
 # Google Analytics Tracking
-google_analytics_tracking_id: 'Update Me'
+google_analytics_tracking_id: 'UA-63189236-4'
 
 # The information below should not need to be modified.
 ###############################################################################
