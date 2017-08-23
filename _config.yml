@@ -11,14 +11,14 @@
 
 # Site settings - affect how your site is published
 baseurl: "/course-web-template" # the subpath of your site, e.g. /blog
-url: "https://mbmosman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://htc-ccis2591.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Color scheme based on http://flatuicolors.com/.
 # Possible values:
 #    - silver          - gold            - midnight
 #    - green           - turquoise       - blue
 #    - purple          - orange          - red
-theme_color: blue
+theme_color: purple
 ###############################################################################
 
 # Google Calendar Settings
